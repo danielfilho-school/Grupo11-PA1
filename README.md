@@ -1,6 +1,7 @@
 # Membros do projeto
 
 DANIEL SILVA SOUZA FILHO
+
 (Os demais integrantes, Caio e Naiara, nunca responderam às mensagens, e não houve qualquer comunicação da parte deles – conforme já detalhei previamente ao professor por e-mail)
 
 # Objetivo
