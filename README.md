@@ -1,6 +1,6 @@
-\# Projeto Aplicado – Grupo 11  
+# Projeto Aplicado – Grupo 11  
 
-\## Análise de Mortes em Excesso Associadas à COVID-19 (OMS)
+## Análise de Mortes em Excesso Associadas à COVID-19 (OMS)
 
 
 
@@ -12,7 +12,7 @@ Este repositório contém todas as etapas, scripts, documentos e resultados do P
 
 
 
-\# 📊 Objetivo Geral
+# 📊 Objetivo Geral
 
 
 
@@ -24,7 +24,7 @@ Realizar uma análise exploratória, analítica e narrativa (storytelling) sobre
 
 
 
-\# 📁 Estrutura do Repositório
+# 📁 Estrutura do Repositório
 
 ├── docs/
 │ ├── Etapa1/
