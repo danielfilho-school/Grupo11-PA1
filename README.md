@@ -2,52 +2,39 @@
 
 ## Análise de Mortes em Excesso Associadas à COVID-19 (OMS)
 
-
-
 Este repositório contém todas as etapas, scripts, documentos e resultados do Projeto Aplicado do Grupo 11, cujo objetivo é analisar o impacto real da pandemia de COVID-19 por meio do dataset de \*Global Excess Deaths Associated with COVID-19\*, disponibilizado pela Organização Mundial da Saúde (OMS).
 
-
-
 ---
-
-
 
 # 📊 Objetivo Geral
 
-
-
 Realizar uma análise exploratória, analítica e narrativa (storytelling) sobre os dados de \*\*mortes em excesso\*\*, utilizando métodos de Ciência de Dados e técnicas de Data Storytelling, seguindo rigorosamente as etapas estabelecidas no componente curricular.
-
-
 
 ---
 
-
-
 # 📁 Estrutura do Repositório
 
-├── docs/
-│ ├── Etapa1/
-│ ├── Etapa2/
-│ ├── Etapa3/
-│ └── Etapa4/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── scripts/
-│ ├── 01_eda_excess_deaths.py
-│ ├── 02_eda_country_profiles.py
-│ ├── requirements.txt
-│ └── README.md
-│
-├── outputs/
-│ ├── eda/
-│ └── perfis/
-│
-└── README.md
+- docs/
+  - Etapa1/
+  - Etapa2/
+  - Etapa3/
+  - Etapa4/
 
+- data/
+  - raw/
+  - processed/
+
+- scripts/
+  - 01_eda_excess_deaths.py
+  - 2_eda_country_profiles.py
+  - requirements.txt
+  - README.md
+
+- outputs/
+  - eda/
+  - perfis/
+
+- README.md
 
 ---
 
@@ -97,7 +84,6 @@ Toda a documentação formal (PDFs e textos) está em:
 /docs/Etapa2
 /docs/Etapa3
 /docs/Etapa4
-
 
 ---
 
